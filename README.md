@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Mahesh
 
-<!--
-**Maheshkuntnor/Maheshkuntnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 🎓 B.Tech Student
+- 💻 Learning Java, PHP, HTML, CSS, JavaScript
+- 🌱 Currently learning Git & GitHub
+- 🎯 Goal: Become a Full-Stack Developer
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Java
+- PHP
+- HTML
+- JavaScript
+## 📚 Currently Learning
+- Data Structures
+- Web Development
+- GitHub Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- GitHub: https://github.com/Maheshkuntnor
+
+⭐ Thanks for visiting my profile!
+
